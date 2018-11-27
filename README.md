@@ -1,10 +1,17 @@
 # BrazoRobotico
+
 INSTITUTO TECNOLÓGICO DE LEÓN
+
 PROYECTO DE BRAZO ROBOTICO CON PROGRAMACIÓN EN JAVA Y ARDUINO.
+
 ALUMNOS:
+
 Paola Castillo Irene.
+
 Roberto Ismael Ramírez Rios.
+	
 	PROFESOR:
+
 ING. Levy Rojas Carlos Rafael.
 
 Fecha de Entrega: 27-nov-2018.
