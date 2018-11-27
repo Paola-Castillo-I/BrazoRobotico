@@ -1,8 +1,8 @@
 # BrazoRobotico
 
-INSTITUTO TECNOLÓGICO DE LEÓN
+# INSTITUTO TECNOLÓGICO DE LEÓN
 
-PROYECTO DE BRAZO ROBOTICO CON PROGRAMACIÓN EN JAVA Y ARDUINO.
+# PROYECTO DE BRAZO ROBOTICO CON PROGRAMACIÓN EN JAVA Y ARDUINO.
 
 ALUMNOS:
 
@@ -16,14 +16,16 @@ ING. Levy Rojas Carlos Rafael.
 
 Fecha de Entrega: 27-nov-2018.
   
-  INTRODUCCIÓN
+  # INTRODUCCIÓN
+
 Proyecto de simulación del funcionamiento de un brazo robótico industrial capaz de grabar pasos de ejecución y notificar vía  voz artificial secuencia de ejecución mediante control de aplicativo Java y uso de microcontrolador ARDUINO UNO.
+
 # Descripción General
 El circuito desarrollado ejemplifica el trabajo de un brazo robótico industrial, el cual cuenta con dos modos de trabajo: programador y ejecución. El brazo robótico planteado puede ser controlado y programado en secuencia de pasos de ejecución mediante un aplicativo desarrollado con la tecnología Java. El brazo robótico posee cuatro grados de libertad para el movimiento, por lo cual tendrá la capacidad de movimiento en cuatro motores distintos (tres servomotores y un motor a pasos). Además de poder ser controlado por un aplicativo en Java, el brazo planteado  cuenta con la funcionalidad de guardar pasos de ejecución (en memoria EEPROM de del dispositivo Arduino) según el usuario lo desee y ejecutarlos en cualquier momento a menos que un botón de aborto sea accionado. 
 Finalmente, cuando se trabaja en modo de ejecución el brazo debe seguir con su flujo normal de ejecución de pasos, sin importar si ocurrió un fallo en energía y perdida de comunicación serial con el aplicativo Java.
 Las ventanas hechas en java serán ejecutadas únicamente en una computadora un ordenador, ya que hasta el momento solamente hemos creado ese tipo de interfaces, aunque se prevé crearlas dentro del ambiente Android para que puedas escribir mensajes desde tu celular.
 
-  MATERIAL
+ # MATERIAL
   
 * Microcontrolador Arduino UNO
 * Protoboard
